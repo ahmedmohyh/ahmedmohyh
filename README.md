@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A Software Engineer @carecapital (https://carecapital.de)</h3>
+
+<h3 align="center"> A Software Engineer @ <a href="https://carecapital.de" target="blank"><img align="center" src="https://carecapital.de/wp-content/uploads/2023/01/cropped-Icon_CareCapital-512x512-2-32x32.png" alt="Carecapital" height="30" width="40" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohyh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohyh" /> </p>
 
