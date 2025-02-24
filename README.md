@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohyh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohyh" /> </p>
 
 
-- 🔭 I’m currently working on [OpenLAP](https://github.com/users/ahmedmohyh/projects/1)
-
 - 🌱 I’m currently learning **Microservices with spring boot**
 
 - 💬 Ask me about **.NET, SQL, C#, JAVA**
